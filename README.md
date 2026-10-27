@@ -1,7 +1,9 @@
+# Libft
+
 *This project has been created as part of the 42 curriculum by
 moboulah.*
 
-# Description
+## Description
 
 **libft** is a custom C library built as part of the 42 curriculum. Its
 goal is to recreate a useful selection of standard C library functions
